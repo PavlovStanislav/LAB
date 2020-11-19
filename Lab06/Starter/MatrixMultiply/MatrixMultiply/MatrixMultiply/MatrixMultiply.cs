@@ -10,7 +10,7 @@ namespace MatrixMultiply
     {
         static void Main(string[] args)
         {
-            /*Console.WriteLine("Input array `a` elements: ");
+            Console.WriteLine("Input array `a` elements: ");
             int[,] a = new int[2, 2];
             string a1 = Console.ReadLine();
             a[0, 0] = int.Parse(a1);
@@ -19,7 +19,7 @@ namespace MatrixMultiply
             string a3 = Console.ReadLine();
             a[1, 0] = int.Parse(a3);
             string a4 = Console.ReadLine();
-            a[1, 1] = int.Parse(a4);*/
+            a[1, 1] = int.Parse(a4);
 
             Input(a);
            
@@ -38,7 +38,7 @@ namespace MatrixMultiply
         }
         static void Input(int[,] dst)
         {
-            int[,] a = new int[2, 2];
+            /*int[,] a = new int[2, 2];
             string a1 = Console.ReadLine();
             a[0, 0] = int.Parse(a1);
             string a2 = Console.ReadLine();
@@ -46,7 +46,8 @@ namespace MatrixMultiply
             string a3 = Console.ReadLine();
             a[1, 0] = int.Parse(a3);
             string a4 = Console.ReadLine();
-            a[1, 1] = int.Parse(a4);
+            a[1, 1] = int.Parse(a4);*/
+            
 
             for (int r = 0; r < 2; r++)
             {
