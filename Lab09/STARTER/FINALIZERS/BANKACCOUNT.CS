@@ -2,8 +2,9 @@ using System;
 using System.IO;
 using System.Collections;
 
-class BankAccount 
-{
+    sealed class BankAccount : IDisposable
+
+    {
 	private long accNo;
     private decimal accBal;
     private AccountType accType;
