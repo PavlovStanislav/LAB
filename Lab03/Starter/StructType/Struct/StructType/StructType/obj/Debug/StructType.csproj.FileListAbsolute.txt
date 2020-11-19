@@ -1,0 +1,7 @@
+F:\ИТМО\Разработка приложений на C#\Labs\Lab03\Starter\StructType\Struct\StructType\StructType\bin\Debug\StructType.exe.config
+F:\ИТМО\Разработка приложений на C#\Labs\Lab03\Starter\StructType\Struct\StructType\StructType\bin\Debug\StructType.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab03\Starter\StructType\Struct\StructType\StructType\bin\Debug\StructType.pdb
+F:\ИТМО\Разработка приложений на C#\Labs\Lab03\Starter\StructType\Struct\StructType\StructType\obj\Debug\StructType.csprojAssemblyReference.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab03\Starter\StructType\Struct\StructType\StructType\obj\Debug\StructType.csproj.CoreCompileInputs.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab03\Starter\StructType\Struct\StructType\StructType\obj\Debug\StructType.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab03\Starter\StructType\Struct\StructType\StructType\obj\Debug\StructType.pdb

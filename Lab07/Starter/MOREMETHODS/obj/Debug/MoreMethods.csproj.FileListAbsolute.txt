@@ -1,0 +1,6 @@
+F:\ИТМО\Разработка приложений на C#\Labs\Lab07\Starter\MOREMETHODS\obj\Debug\MoreMethods.csprojAssemblyReference.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab07\Starter\MOREMETHODS\obj\Debug\MoreMethods.csproj.CoreCompileInputs.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab07\Starter\MOREMETHODS\bin\Debug\MoreMethods.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab07\Starter\MOREMETHODS\bin\Debug\MoreMethods.pdb
+F:\ИТМО\Разработка приложений на C#\Labs\Lab07\Starter\MOREMETHODS\obj\Debug\MoreMethods.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab07\Starter\MOREMETHODS\obj\Debug\MoreMethods.pdb

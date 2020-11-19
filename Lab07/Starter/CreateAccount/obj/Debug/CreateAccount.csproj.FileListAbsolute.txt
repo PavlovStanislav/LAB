@@ -1,0 +1,11 @@
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab07\STARTER\CREATEACCOUNT\bin\Debug\CreateAccount.exe
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab07\STARTER\CREATEACCOUNT\bin\Debug\CreateAccount.pdb
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.csprojResolveAssemblyReference.cache
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.exe
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.pdb
+F:\ИТМО\Разработка приложений на C#\CSharpLabs\Lab07\STARTER\CREATEACCOUNT\bin\Debug\CreateAccount.exe
+F:\ИТМО\Разработка приложений на C#\CSharpLabs\Lab07\STARTER\CREATEACCOUNT\bin\Debug\CreateAccount.pdb
+F:\ИТМО\Разработка приложений на C#\CSharpLabs\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.csprojAssemblyReference.cache
+F:\ИТМО\Разработка приложений на C#\CSharpLabs\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.csproj.CoreCompileInputs.cache
+F:\ИТМО\Разработка приложений на C#\CSharpLabs\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.exe
+F:\ИТМО\Разработка приложений на C#\CSharpLabs\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.pdb

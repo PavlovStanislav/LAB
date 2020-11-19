@@ -1,0 +1,6 @@
+F:\ИТМО\Разработка приложений на C#\Labs\Lab02\DivideIt\Divider\bin\Debug\Divider.exe.config
+F:\ИТМО\Разработка приложений на C#\Labs\Lab02\DivideIt\Divider\bin\Debug\Divider.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab02\DivideIt\Divider\bin\Debug\Divider.pdb
+F:\ИТМО\Разработка приложений на C#\Labs\Lab02\DivideIt\Divider\obj\Debug\Divider.csproj.CoreCompileInputs.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab02\DivideIt\Divider\obj\Debug\Divider.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab02\DivideIt\Divider\obj\Debug\Divider.pdb

@@ -1,0 +1,7 @@
+F:\ИТМО\Разработка приложений на C#\Labs\Lab03\Starter\BankAccount\Enum\Enum\bin\Debug\Enum.exe.config
+F:\ИТМО\Разработка приложений на C#\Labs\Lab03\Starter\BankAccount\Enum\Enum\bin\Debug\Enum.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab03\Starter\BankAccount\Enum\Enum\bin\Debug\Enum.pdb
+F:\ИТМО\Разработка приложений на C#\Labs\Lab03\Starter\BankAccount\Enum\Enum\obj\Debug\Enum.csprojAssemblyReference.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab03\Starter\BankAccount\Enum\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab03\Starter\BankAccount\Enum\Enum\obj\Debug\Enum.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab03\Starter\BankAccount\Enum\Enum\obj\Debug\Enum.pdb

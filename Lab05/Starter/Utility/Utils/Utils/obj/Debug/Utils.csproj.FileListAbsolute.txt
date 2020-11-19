@@ -1,0 +1,7 @@
+F:\ИТМО\Разработка приложений на C#\Labs\Lab05\Starter\Utility\Utils\Utils\bin\Debug\Utils.exe.config
+F:\ИТМО\Разработка приложений на C#\Labs\Lab05\Starter\Utility\Utils\Utils\bin\Debug\Utils.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab05\Starter\Utility\Utils\Utils\bin\Debug\Utils.pdb
+F:\ИТМО\Разработка приложений на C#\Labs\Lab05\Starter\Utility\Utils\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab05\Starter\Utility\Utils\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab05\Starter\Utility\Utils\Utils\obj\Debug\Utils.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab05\Starter\Utility\Utils\Utils\obj\Debug\Utils.pdb

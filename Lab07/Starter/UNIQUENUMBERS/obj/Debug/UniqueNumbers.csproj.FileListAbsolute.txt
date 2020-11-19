@@ -1,0 +1,6 @@
+F:\ИТМО\Разработка приложений на C#\Labs\Lab07\Starter\UNIQUENUMBERS\bin\Debug\UniqueNumbers.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab07\Starter\UNIQUENUMBERS\bin\Debug\UniqueNumbers.pdb
+F:\ИТМО\Разработка приложений на C#\Labs\Lab07\Starter\UNIQUENUMBERS\obj\Debug\UniqueNumbers.csprojAssemblyReference.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab07\Starter\UNIQUENUMBERS\obj\Debug\UniqueNumbers.csproj.CoreCompileInputs.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab07\Starter\UNIQUENUMBERS\obj\Debug\UniqueNumbers.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab07\Starter\UNIQUENUMBERS\obj\Debug\UniqueNumbers.pdb

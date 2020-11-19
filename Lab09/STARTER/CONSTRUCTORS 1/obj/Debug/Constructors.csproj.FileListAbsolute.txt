@@ -1,0 +1,12 @@
+F:\ИТМО\Разработка приложений на C#\Labs\Lab09\STARTER\CONSTRUCTORS\bin\Debug\Constructors.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab09\STARTER\CONSTRUCTORS\bin\Debug\Constructors.pdb
+F:\ИТМО\Разработка приложений на C#\Labs\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.csprojAssemblyReference.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.pdb
+F:\ИТМО\Разработка приложений на C#\Labs\Lab09\STARTER\CONSTRUCTORS 1\bin\Debug\Constructors.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab09\STARTER\CONSTRUCTORS 1\bin\Debug\Constructors.pdb
+F:\ИТМО\Разработка приложений на C#\Labs\Lab09\STARTER\CONSTRUCTORS 1\obj\Debug\Constructors.csprojAssemblyReference.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab09\STARTER\CONSTRUCTORS 1\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab09\STARTER\CONSTRUCTORS 1\obj\Debug\Constructors.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab09\STARTER\CONSTRUCTORS 1\obj\Debug\Constructors.pdb

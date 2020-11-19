@@ -1,0 +1,7 @@
+F:\ИТМО\Разработка приложений на C#\Labs\Lab04\WhatDay2\WhatDay2\bin\Debug\WhatDay2.exe.config
+F:\ИТМО\Разработка приложений на C#\Labs\Lab04\WhatDay2\WhatDay2\bin\Debug\WhatDay2.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab04\WhatDay2\WhatDay2\bin\Debug\WhatDay2.pdb
+F:\ИТМО\Разработка приложений на C#\Labs\Lab04\WhatDay2\WhatDay2\obj\Debug\WhatDay2.csprojAssemblyReference.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab04\WhatDay2\WhatDay2\obj\Debug\WhatDay2.csproj.CoreCompileInputs.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab04\WhatDay2\WhatDay2\obj\Debug\WhatDay2.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab04\WhatDay2\WhatDay2\obj\Debug\WhatDay2.pdb

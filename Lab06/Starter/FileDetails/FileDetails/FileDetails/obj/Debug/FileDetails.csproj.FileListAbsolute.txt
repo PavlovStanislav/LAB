@@ -1,0 +1,7 @@
+F:\ИТМО\Разработка приложений на C#\Labs\Lab06\Starter\FileDetails\FileDetails\FileDetails\bin\Debug\FileDetails.exe.config
+F:\ИТМО\Разработка приложений на C#\Labs\Lab06\Starter\FileDetails\FileDetails\FileDetails\bin\Debug\FileDetails.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab06\Starter\FileDetails\FileDetails\FileDetails\bin\Debug\FileDetails.pdb
+F:\ИТМО\Разработка приложений на C#\Labs\Lab06\Starter\FileDetails\FileDetails\FileDetails\obj\Debug\FileDetails.csprojAssemblyReference.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab06\Starter\FileDetails\FileDetails\FileDetails\obj\Debug\FileDetails.csproj.CoreCompileInputs.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab06\Starter\FileDetails\FileDetails\FileDetails\obj\Debug\FileDetails.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab06\Starter\FileDetails\FileDetails\FileDetails\obj\Debug\FileDetails.pdb

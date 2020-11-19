@@ -1,0 +1,2 @@
+F:\ИТМО\Разработка приложений на C#\Labs\Lab08\STARTER\UTILS\obj\Debug\Utils.csprojAssemblyReference.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab08\STARTER\UTILS\obj\Debug\Utils.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+F:\ИТМО\Разработка приложений на C#\Labs\Lab04\What Day1\What Day1\bin\Debug\What Day1.exe.config
+F:\ИТМО\Разработка приложений на C#\Labs\Lab04\What Day1\What Day1\bin\Debug\What Day1.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab04\What Day1\What Day1\bin\Debug\What Day1.pdb
+F:\ИТМО\Разработка приложений на C#\Labs\Lab04\What Day1\What Day1\obj\Debug\What Day1.csprojAssemblyReference.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab04\What Day1\What Day1\obj\Debug\What Day1.csproj.CoreCompileInputs.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab04\What Day1\What Day1\obj\Debug\What Day1.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab04\What Day1\What Day1\obj\Debug\What Day1.pdb

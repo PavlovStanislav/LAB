@@ -1,0 +1,6 @@
+F:\ИТМО\Разработка приложений на C#\Labs\Lab08\STARTER\INTERFACETEST\bin\Debug\Utils.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab08\STARTER\INTERFACETEST\bin\Debug\Utils.pdb
+F:\ИТМО\Разработка приложений на C#\Labs\Lab08\STARTER\INTERFACETEST\obj\Debug\InterfaceTest.csprojAssemblyReference.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab08\STARTER\INTERFACETEST\obj\Debug\InterfaceTest.csproj.CoreCompileInputs.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab08\STARTER\INTERFACETEST\obj\Debug\Utils.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab08\STARTER\INTERFACETEST\obj\Debug\Utils.pdb

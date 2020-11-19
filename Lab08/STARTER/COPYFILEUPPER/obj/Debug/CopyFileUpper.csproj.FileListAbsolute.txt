@@ -1,0 +1,6 @@
+F:\ИТМО\Разработка приложений на C#\Labs\Lab08\STARTER\COPYFILEUPPER\bin\Debug\CopyFileUpper.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab08\STARTER\COPYFILEUPPER\bin\Debug\CopyFileUpper.pdb
+F:\ИТМО\Разработка приложений на C#\Labs\Lab08\STARTER\COPYFILEUPPER\obj\Debug\CopyFileUpper.csprojAssemblyReference.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab08\STARTER\COPYFILEUPPER\obj\Debug\CopyFileUpper.csproj.CoreCompileInputs.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Lab08\STARTER\COPYFILEUPPER\obj\Debug\CopyFileUpper.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Lab08\STARTER\COPYFILEUPPER\obj\Debug\CopyFileUpper.pdb
