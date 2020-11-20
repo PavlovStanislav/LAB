@@ -10,22 +10,11 @@ namespace MatrixMultiply
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Input array `a` elements: ");
             int[,] a = new int[2, 2];
-            string a1 = Console.ReadLine();
-            a[0, 0] = int.Parse(a1);
-            string a2 = Console.ReadLine();
-            a[0, 1] = int.Parse(a2);
-            string a3 = Console.ReadLine();
-            a[1, 0] = int.Parse(a3);
-            string a4 = Console.ReadLine();
-            a[1, 1] = int.Parse(a4);
-
-            Input(a);
+            Inputa(a);
            
             int[,] b = new int[2, 2];
-            b[0, 0] = 5; b[0, 1] = 6;
-            b[1, 0] = 7; b[1, 1] = 8;
+            Inputb(b);
 
             int[,] result = new int[2, 2];
             result[0, 0] = a[0, 0] * b[0, 0] + a[0, 1] * b[1, 0];
@@ -36,9 +25,10 @@ namespace MatrixMultiply
             Multiply(a,b);
             Output(result);
         }
-        static void Input(int[,] dst)
+        static void Inputa (int[,] dst)
         {
-            /*int[,] a = new int[2, 2];
+            /*Console.WriteLine("Input array `a` elements: ");
+            int[,] a = new int[2, 2];
             string a1 = Console.ReadLine();
             a[0, 0] = int.Parse(a1);
             string a2 = Console.ReadLine();
@@ -47,19 +37,34 @@ namespace MatrixMultiply
             a[1, 0] = int.Parse(a3);
             string a4 = Console.ReadLine();
             a[1, 1] = int.Parse(a4);*/
-            
 
             for (int r = 0; r < 2; r++)
             {
                 for (int c = 0; c < 2; c++)
                 {
-                    Console.Write("Enter value for [{0},{1}] : ", r, c);
+                    Console.Write("Enter 'a' value for [{0},{1}] : ", r, c);
                     string s = Console.ReadLine();
                     dst[r, c] = int.Parse(s);
                 }
             }
             Console.WriteLine();
-           
+        }
+
+        static void Inputb (int[,] tsd)
+        {
+            /*b[0, 0] = 5; b[0, 1] = 6;
+            b[1, 0] = 7; b[1, 1] = 8;*/
+
+            for (int q = 0; q < 2; q++)
+            {
+                for (int u = 0; u < 2; u++)
+                {
+                    Console.Write("Enter 'b' value for [{0},{1}] : ", q, u);
+                    string t = Console.ReadLine();
+                    tsd[q, u] = int.Parse(t);
+                }
+            }
+            Console.WriteLine();
         }
         static int[,] Multiply(int[,] a, int[,] b)
         {
