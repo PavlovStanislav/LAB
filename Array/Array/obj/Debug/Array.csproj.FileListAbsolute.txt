@@ -1,0 +1,7 @@
+F:\ИТМО\Разработка приложений на C#\Labs\Array\Array\bin\Debug\Array.exe.config
+F:\ИТМО\Разработка приложений на C#\Labs\Array\Array\bin\Debug\Array.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Array\Array\bin\Debug\Array.pdb
+F:\ИТМО\Разработка приложений на C#\Labs\Array\Array\obj\Debug\Array.csprojAssemblyReference.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+F:\ИТМО\Разработка приложений на C#\Labs\Array\Array\obj\Debug\Array.exe
+F:\ИТМО\Разработка приложений на C#\Labs\Array\Array\obj\Debug\Array.pdb
